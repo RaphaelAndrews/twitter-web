@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { HeartIcon } from '@heroicons/react/outline'
 import { useFormik } from 'formik'
 import axios from 'axios'
-import avatar from './avatar.png'
+import avatar from './logo.png'
 
 const MAX_TWEET_CHAR = 140
 
